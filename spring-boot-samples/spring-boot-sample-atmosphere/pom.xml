@@ -17,8 +17,8 @@
 	</organization>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>	
-		<source>11</source>
-		<target>11</target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+	        <maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
