@@ -17,6 +17,8 @@
 	</organization>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>	
+		<source>11</source>
+		<target>11</target>
 	</properties>
 	<dependencies>
 		<dependency>
